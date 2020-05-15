@@ -1,2 +1,2 @@
 # College Course Work
- Completed course work from various classes from college.
+ This is my repo that has many of my completed final projects, homework, or other various assignments from college.
