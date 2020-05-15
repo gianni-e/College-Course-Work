@@ -1,12 +1,3 @@
-/**
- *  Implement a B-Tree
- *  
- *  @author Drs. Vermilyer and Sedgwick
- *
- *  @version 1.0
- *
- *************************************************************************/
-
 public class BTree<Key extends Comparable<Key>, Value>  {
     // max children per B-tree node = M-1
     // (must be even and greater than 2)
